@@ -1,0 +1,32 @@
+.calculator{
+    width: 130px;
+    background-color: black;
+    margin: 0 auto;
+}
+
+.btn{
+    color: white;
+    background-color: rgb(26, 24, 24);
+    border-radius: 20px;
+    margin: 2px;
+border-color: black;
+}
+
+.clear{
+    width: 90px;
+}
+.zero{
+    width: 85px;
+}
+.inputbar{
+    background-color: rgb(255, 202, 104);
+    margin: 3px;
+    width: 116px;
+}
+.opr{
+    color:  rgb(255, 115, 0);
+}
+.equal{
+    color: white;
+    background-color: rgb(255, 115, 0);
+}
